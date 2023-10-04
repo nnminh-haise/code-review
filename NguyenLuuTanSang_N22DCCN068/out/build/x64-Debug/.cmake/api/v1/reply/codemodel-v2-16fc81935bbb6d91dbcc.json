@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Nguyn_Lu_Tn_Sang_N22DCCN068",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Nguyn_Lu_Tn_Sang_N22DCCN068::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Nguyn_Lu_Tn_Sang_N22DCCN068-Debug-ac5a0e9daa1380f2a491.json",
+					"name" : "Nguyn_Lu_Tn_Sang_N22DCCN068",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Minh/Code/Nguy\u1ec5n L\u01b0u T\u1ea5n Sang-N22DCCN068/out/build/x64-Debug",
+		"source" : "C:/Users/Minh/Code/Nguy\u1ec5n L\u01b0u T\u1ea5n Sang-N22DCCN068"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
