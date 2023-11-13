@@ -155,6 +155,9 @@ Task Task::getTask() {
         std::cout << "Enter day: "; std::cin >> date.day;
         std::cout << "Enter month: "; std::cin >> date.month;
         std::cout << "Enter year: "; std::cin >> date.year;
+    
+    // ! Có thể user sẽ tạo task cho tương lai, hoặc lên lịch cho task phải bắt đầu trong quá khứ,
+    // ! nhưng deadline ở tương lai -> Sai nghiệp vụ -1
     } while (!Task::compare(current, date) || !Task::isValidDate(date.day, date.month, date.year));
 
 
