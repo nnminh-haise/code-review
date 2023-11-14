@@ -69,6 +69,9 @@ struct Date {
     }
 };
 
+/**
+ * ! Việc lựa chọn so sánh hai Task dựa trên tất cả thông tin là chưa hẳn hợp lí.
+*/
 class Task {
 private:
     Status status;
